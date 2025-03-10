@@ -1,0 +1,6 @@
+stdClass Object
+(
+    [name] => Joana
+    [midterm_score] => 75
+    [final_score] => 80
+)
